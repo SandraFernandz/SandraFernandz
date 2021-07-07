@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandraFernandz
-- 👀 I’m interested in Coding, Yoga&Meditation, Plants
+- 👀 I’m interested in Coding, Yoga&Meditation, Plants, Design, Architecture, Art, Philosophy.
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me sandraenmunich@gmail.com
