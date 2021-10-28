@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m @SandraFernandz
-- 💎 I’m interested in Programming, Yoga & Meditation, Philosophy, Design, Architecture, Art and Nature.
+- 💎 I’m interested in Programming, Design, Philosophy, Architecture, Art and Yoga & Meditation.
 - 💫 Currently learning to code and I'm loving it!
 - 💬 Fluent in Spanish, English, German, French and Catalan. I have studied in Japan and have some basic knowledge in Russian.
 - 🌎 Living abroad for +25 years, I have developped cross-cultural skills and feel comfortable working in international, multicultural        environements.
