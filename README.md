@@ -6,6 +6,8 @@
 - 👀 I am currently looking to join a company and build a career as a front-end developer.
 - 📫 Feel free to contact me: sandraenmunich@gmail.com or get to know me better at my Yoga web page: www.sandrafernandezyoga.com
 
+![](images/sass.png)
+
 <!---
 SandraFernandz/SandraFernandz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
