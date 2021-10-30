@@ -1,6 +1,6 @@
 ### About me
 
-- 👋🏽  Hi, I’m @SandraFernandz
+- 👋🏽  Hi, I’m Sandra Fernández born in Barcelona, currently living with my family in Munich. 
 - 💎  I’m interested in Programming, Design, Philosophy, Architecture, Art and Yoga & Meditation.
 - 💫  Currently learning to code and I'm loving it!
 - 💬  Fluent in Spanish, English, German, French and Catalan. I have studied in Japan and have some basic knowledge in Russian.
