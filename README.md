@@ -6,7 +6,7 @@
 - 👀 I am currently looking to join a company and build a career as a front-end developer.
 - 📫 Feel free to contact me: sandraenmunich@gmail.com or get to know me better at my Yoga web page: www.sandrafernandezyoga.com
 
-<img src="images/html.png" width = 70> <img src="images/CSS.png" width= 70> <img src="images/SASS.png" width=70> <img src="images/bootstrap.png" width=50> <img src="images/javascript.png" width= 50> <img src="images/gulp-logo.png" width= 90>
+<img src="images/html.png" width = 70> <img src="images/CSS.png" width= 70> <img src="images/SASS.png" width=70> <img src="images/bootstrap.png" width=60> <img src="images/javascript.png" width= 60> <img src="images/gulp-logo.png" width= 90>
 <img src="images/expressJS.png" width = 70> <img src="markdown.png" width = 100> <img src="images/node.png" width= 100>
 <img src="images/npm.png" width = 80> <img src="images/react.png" width = 70> <img src="images/sqlite.png" width = 150>
  
