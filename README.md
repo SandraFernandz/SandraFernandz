@@ -11,7 +11,7 @@
  
 ### I work with
 
-<img src="images/space.png" width=10> <img src="images/html.png" width=70> <img src="images/space.png" width=10> <img src="images/CSS.png" width=70> <img src="images/space.png" width=10> <img src="images/sass.png" width=70> <img src="images/space.png" width =10> <img src="images/bootstrap.png" width=70> <img src="images/space.png" width = 10> <img src="images/javascript.png" width= 70> <img src="images/space.png" width=10> <img src="images/react.png" width = 70> <img src="images/space.png" width=10> <img src="images/ex.png" width = 60> <img src="images/space.png" width=10> <img src="images/markdown.png" width=80> <img src="images/space.png" width=10> <img src="images/node.png" width= 90> <img src="images/space.png" width=10> <img src="images/npm.png" width = 80> <img src="images/space.png" width=10>  <img src="images/gulp-logo.png" width= 90>
+<img src="images/space.png" width=10> <img src="images/html.png" width=70> <img src="images/space.png" width=10> <img src="images/CSS.png" width=70> <img src="images/space.png" width=10> <img src="images/sass.png" width=70> <img src="images/space.png" width =10> <img src="images/bootstrap.png" width=70> <img src="images/space.png" width = 10> <img src="images/javascript.png" width= 70> <img src="images/space.png" width=10> <img src="images/react.png" width = 70> <img src="images/space.png" width=10> <img src="images/ex.png" width = 60> <img src="images/space.png" width=10> <img src="images/markdown.png" width=80> <img src="images/space.png" width=10> <img src="images/node.png" width= 90> <img src="images/space.png" width=10> <img src="images/npm.png" width = 85> <img src="images/space.png" width=10>  <img src="images/gulp-logo.png" width= 90>
 
 
 ### Fun Facts
