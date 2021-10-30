@@ -8,7 +8,7 @@
 
 <img src="images/html.png" width = 100> <img src="images/CSS.png" width= 100> <img src="images/SASS.png" width=100> <img src="images/bootstrap.png" width=90> <img src="images/javascript.png" width= 90> <img src="images/gulp-logo.png" width= 120>
 <img src="images/expressJS.png" width = 100> <img src="markdown.png" width = 100> <img src="images/node.png" width= 100>
-<img src="images/npm.png" width = 100> <img src="images/react.png" width = 100> <img src="images/sqlite.png" width = 100>
+<img src="images/npm.png" width = 100> <img src="images/react.png" width = 100> <img src="images/sqlite.png" width = 200>
  
 
 
