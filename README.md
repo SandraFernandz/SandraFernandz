@@ -1,6 +1,6 @@
 ### About me
 
-- 👋🏽  Hi, I’m Sandra Fernández born in Barcelona. I live now with my family in Munich.
+- 👋🏽  Hi, I’m Sandra Fernández. I was born in Barcelona but I live now with my family in Munich.
 - 💎  I’m interested in programming, design, philosophy, architecture and art.
 - 💬  Fluent in Spanish, English, German, French and Catalan. I have studied in Japan (Jyochi University) and have some basic knowledge of Russian.
 - 🌎  Living abroad for +25 years, I have developped cross-cultural skills and feel comfortable working in international, multicultural        environements.
