@@ -15,7 +15,7 @@
 
 ### Fun Facts
 
-I am a natural born yogini. Get to know me better at my Yoga web page: www.sandrafernandezyoga.com
+I am also a yogini. Get to know me better at my Yoga web page: www.sandrafernandezyoga.com
 
 
 
