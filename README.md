@@ -15,7 +15,7 @@
 
 ### Fun Facts
 
-I worked for +10 years as a yoga teacher instructor as well as yoga and meditation teacher. I am passionate about philosophy, specially kashmir shaivism. I built the first yoga Spanish speaking community in Munich.
+I worked for +10 years as a yoga teacher instructor as well as yoga and meditation teacher. I am passionate about philosophy (Kashmir Shaivism). I built the first yoga Spanish speaking community in Munich.
 
 
 
