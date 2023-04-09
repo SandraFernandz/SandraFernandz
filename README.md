@@ -5,7 +5,7 @@
 - 💬  Fluent in Spanish, English, German, French and Catalan. I have studied in Japan (Jyochi University) and have some basic knowledge of Russian and Sanskrit.
 - 🌎  Living abroad for +25 years, I have developped cross-cultural skills and feel comfortable working in international, multicultural        environements.
 - 👀  I am currently working as a front-end developer for CHECK24.
-- 🏹  My friends say I that make great conversations and that I am even a better listener.
+- 🏹  My friends say that I make great conversations and that I am even a better listener.
 - 📫  Feel free to contact me: sandraenmunich@gmail.com 
  
  
