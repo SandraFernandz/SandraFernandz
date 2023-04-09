@@ -4,7 +4,7 @@
 - 💎  I’m interested in programming, design, philosophy, architecture and art.
 - 💬  Fluent in Spanish, English, German, French and Catalan. I have studied in Japan (Jyochi University) and have some basic knowledge of Russian and Sanskrit.
 - 🌎  Living abroad for +25 years, I have developped cross-cultural skills and feel comfortable working in international, multicultural        environements.
-- 👀  I am currently looking to join a company and build a career as a front-end developer.
+- 👀  I am currently working as a front-end developer for CHECK24.
 - 📫  Feel free to contact me: sandraenmunich@gmail.com 
  
  
