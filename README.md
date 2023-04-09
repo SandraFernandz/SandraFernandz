@@ -15,7 +15,7 @@
 
 ### Fun Facts
 
-I am also a yogini. Get to know me better at my Yoga web page: www.sandrafernandezyoga.com
+I worked for +10 years as a yoga, yoga teacher instructor and meditation teacher. I am passionate about philosophy, specially kashmir shaivism.
 
 
 
